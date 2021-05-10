@@ -26,3 +26,5 @@ t.test('should prune using Arborist', (t) => {
     t.end()
   })
 })
+
+t.test('workspaces')

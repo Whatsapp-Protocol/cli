@@ -62,3 +62,5 @@ t.test('should remove dupes using Arborist - no arguments', (t) => {
     t.end()
   })
 })
+
+t.test('workspaces')

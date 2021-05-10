@@ -191,3 +191,5 @@ t.test('completion', t => {
 
   t.end()
 })
+
+t.test('workspaces')

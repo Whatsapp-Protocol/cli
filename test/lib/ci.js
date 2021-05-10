@@ -242,3 +242,5 @@ t.test('should remove existing node_modules before installing', (t) => {
       throw er
   })
 })
+
+t.test('workspaces')

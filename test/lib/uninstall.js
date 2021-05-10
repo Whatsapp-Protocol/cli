@@ -249,3 +249,5 @@ t.test('unknown error reading from localPrefix package.json', t => {
     t.end()
   })
 })
+
+t.test('workspaces')

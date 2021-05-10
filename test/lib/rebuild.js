@@ -256,3 +256,5 @@ t.test('global prefix', t => {
     t.end()
   })
 })
+
+t.test('workspaces')

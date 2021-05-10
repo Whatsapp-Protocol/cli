@@ -218,3 +218,5 @@ t.test('completion', async t => {
   t.notOk(res)
   t.end()
 })
+
+t.test('workspaces')
